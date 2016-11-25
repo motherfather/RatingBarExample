@@ -1,4 +1,4 @@
-package com.estsoft.ratingbarexample;
+package com.bit2016.ratingbarexample;
 
 import org.junit.Test;
 
